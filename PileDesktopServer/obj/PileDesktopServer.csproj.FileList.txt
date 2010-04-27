@@ -1,0 +1,16 @@
+obj\Debug\PileDesktopServer.exe
+obj\Debug\PileDesktopServer.pdb
+bin\Debug\PileDesktopServer.exe
+bin\Debug\PileDesktopServer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PileDesktopServer.Form1.resources
+obj\Debug\PileDesktopServer.Properties.Resources.resources
+obj\Debug\PileDesktopServer.csproj.GenerateResource.Cache
+bin\Release\PileDesktopServer.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PileDesktopServer.Form1.resources
+obj\Release\PileDesktopServer.Properties.Resources.resources
+obj\Release\PileDesktopServer.csproj.GenerateResource.Cache
+obj\Release\PileDesktopServer.exe
+obj\Release\PileDesktopServer.pdb
+bin\Release\PileDesktopServer.pdb
